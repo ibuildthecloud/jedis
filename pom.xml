@@ -46,6 +46,7 @@
 
 	<properties>
 		<redis-hosts>localhost:6379,localhost:6380</redis-hosts>
+        <skipTests>true</skipTests>
 	</properties>
 
 	<dependencies>
